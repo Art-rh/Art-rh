@@ -84,21 +84,17 @@
   <a href="https://www.linkedin.com/in/arthur-rangelr/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
   <a href="https://arthurrangelh.com.br/">
     <img src="https://img.shields.io/static/v1?message=Site&logo=internetexplorer&label=&color=2088ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="site logo"  />
   </a>
-  
   <a href="https://x.com/Artreasure_">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  
     </div>
 
 ---
 
 ## 🚀 Sobre Mim
-
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/191523418?s=400&u=ffe6dac0e4678a2967d5c2c8bbab4d8a5cdc2d45&v=4"  />
 
 Com **20 anos** e cursando **Ciência da Computação** na Estácio, sou um desenvolvedor movido pela paixão em transformar ideias em soluções.
