@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é **Arthur Rangel**, e sou um **Desenvolvedor e Entusiasta de Tecnologia** apaixonado por novos desafios.</h2>
+<h2 align="left">Oi 👋! Meu nome é *Arthur Rangel*, e sou um *Desenvolvedor e Entusiasta de Tecnologia* apaixonado por novos desafios.</h2>
 
 ###
 
@@ -84,12 +84,15 @@
   <a href="https://www.linkedin.com/in/arthur-rangelr/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  
   <a href="https://arthurrangelh.com.br/">
     <img src="https://img.shields.io/static/v1?message=Site&logo=internetexplorer&label=&color=2088ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="site logo"  />
   </a>
+  
   <a href="https://x.com/Artreasure_">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  
     </div>
 
 ---
@@ -105,19 +108,6 @@ Minha experiência abrange desde **automação de processos** e **CRM** até a i
 Estou sempre em busca das **ferramentas mais confiáveis** do mercado para garantir a excelência em cada projeto. Sou uma pessoa apaixonada por novos desafios, buscando constantemente me superar e, acima de tudo, **facilitar a vida das pessoas com a tecnologia**.
 
 **Venham trazer novos projetos para trabalharmos juntos!**
-
----
-
-<br clear="both">
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Art-rh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art-rh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-rh&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
 
 ---
 
