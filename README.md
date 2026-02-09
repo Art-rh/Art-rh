@@ -11,7 +11,7 @@
 
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/191523418?s=400&u=ffe6dac0e4678a2967d5c2c8bbab4d8a5cdc2d45&v=4" style="border-radius: 50%; border: 3px solid #6A0DAD;" />
 
-Com **20 anos** e cursando **Ciência da Computação** na Estácio, sou um desenvolvedor **Full Stack** movido pela paixão em transformar ideias em soluções inovadoras.
+Com **21 anos** e cursando **Ciência da Computação** na Estácio, sou um desenvolvedor **Full Stack** movido pela paixão em transformar ideias em soluções inovadoras.
 
 🎯 **Áreas de Expertise:**
 - 💻 Desenvolvimento Web (Front-end & Back-end)
